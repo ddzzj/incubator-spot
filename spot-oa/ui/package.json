@@ -6,7 +6,7 @@
   "license": "Apache License, Version 2.0",
   "dependencies": {
     "bootstrap": "3.3.5",
-    "bootstrap-datepicker": "1.6.0",
+    "bootstrap-datepicker": "1.10.0",
     "bootstrap-jquery": "^3.3.2",
     "d3": "^3.5.17",
     "d3-interpolate": "^1.1.0",
